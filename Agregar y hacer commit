@@ -1,0 +1,2 @@
+git add nueva.txt
+git commit -m "Agrego nueva funcionalidad en nueva.txt"
