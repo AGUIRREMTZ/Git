@@ -1,0 +1,4 @@
+git init
+echo "Este es mi proyecto" > readme.txt
+git add .
+git commit -m "Primer commit con readme"
