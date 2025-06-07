@@ -1,0 +1,5 @@
+git init conflicto-ejemplo
+cd conflicto-ejemplo
+echo "Línea original" > archivo.txt
+git add .
+git commit -m "Commit inicial con línea original"
