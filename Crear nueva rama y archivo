@@ -1,0 +1,3 @@
+git checkout -b rama-A
+echo "Cambio desde rama A" > archivo.txt
+git commit -am "Cambio desde rama A"
