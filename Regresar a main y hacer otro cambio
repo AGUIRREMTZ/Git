@@ -1,0 +1,3 @@
+git checkout main
+echo "Cambio desde rama MAIN" > archivo.txt
+git commit -am "Cambio desde rama main"
